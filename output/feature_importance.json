@@ -1,0 +1,19 @@
+{
+  "alcohol": 0.039285,
+  "malic_acid": 0.036936,
+  "ash": 0.017817,
+  "alcalinity_of_ash": 0.012573,
+  "magnesium": 0.047158,
+  "total_phenols": 0.083956,
+  "flavanoids": 0.137577,
+  "nonflavanoid_phenols": 0.007614,
+  "proanthocyanins": 0.039308,
+  "color_intensity": 0.106876,
+  "hue": 0.039794,
+  "od280/od315_of_diluted_wines": 0.126325,
+  "proline": 0.094018,
+  "alcohol_to_malic_ratio": 0.028053,
+  "total_phenols_x_flavanoids": 0.070239,
+  "color_intensity_log": 0.107572,
+  "ash_alkalinity_interaction": 0.004898
+}

@@ -1,0 +1,37 @@
+{
+  "accuracy": 1.0,
+  "macro_precision": 1.0,
+  "macro_recall": 1.0,
+  "macro_f1": 1.0,
+  "per_class": {
+    "0": {
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1_score": 1.0,
+      "support": 12
+    },
+    "1": {
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1_score": 1.0,
+      "support": 14
+    },
+    "2": {
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1_score": 1.0,
+      "support": 10
+    }
+  },
+  "cross_validation": {
+    "cv_mean_accuracy": 0.9793,
+    "cv_std_accuracy": 0.0414,
+    "cv_fold_scores": [
+      0.8966,
+      1.0,
+      1.0,
+      1.0,
+      1.0
+    ]
+  }
+}

@@ -1,0 +1,19 @@
+[
+  "alcohol",
+  "malic_acid",
+  "ash",
+  "alcalinity_of_ash",
+  "magnesium",
+  "total_phenols",
+  "flavanoids",
+  "nonflavanoid_phenols",
+  "proanthocyanins",
+  "color_intensity",
+  "hue",
+  "od280/od315_of_diluted_wines",
+  "proline",
+  "alcohol_to_malic_ratio",
+  "total_phenols_x_flavanoids",
+  "color_intensity_log",
+  "ash_alkalinity_interaction"
+]
